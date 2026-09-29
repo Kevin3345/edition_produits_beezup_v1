@@ -1,6 +1,5 @@
-pandas
-requests
-streamlit>=1.29.0,<2.0
-openpyxl
-xlsxwriter
-altair<5
+streamlit==1.64.0
+requests==2.34.2
+pandas==3.0.6
+openpyxl==3.1.5
+xlsxwriter==3.2.9
